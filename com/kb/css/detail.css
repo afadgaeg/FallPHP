@@ -1,0 +1,109 @@
+
+
+#share{
+    margin-top:15px; 
+}
+#share>.bdsharebuttonbox {
+    line-height:32px;margin-bottom:8px;padding:0 6px;
+}
+#share>.bdsharebuttonbox a{
+    float:left;display: block;margin-top:0;margin-bottom:0;
+}
+#share>.bdsharebuttonbox>.title{
+    font-weight:bold;font-size:15px;float:left;display: block;
+}
+
+
+
+#movieplate{
+    width:100%;margin-bottom:10px;
+}
+
+#poster{
+    text-align: center;
+}
+#poster>a>img{
+    max-height: 350px;border: 1px solid #666;box-shadow: 0 3px 4px #999;
+}
+
+#infobox{
+    width:100%;width:100%;line-height: 22px;
+}
+#infobox .title{
+    font-weight: bold;
+}
+#infobox .content{
+    color:#333333;
+}
+#infobox .content a{
+    color:#F78411;
+}
+
+#preview{
+    text-align: center;
+}
+
+
+
+
+
+
+#playbox{
+    width:100%;margin-top:15px;border:1px solid #CCC;padding:0 6.5px;
+}
+#playbox>.title{
+    font-size: 15px;line-height:32px;color:#333333;border-bottom:1px dotted #BFBFBF;padding:5px 0;font-weight: bold;
+}
+#playbox>.tip{
+    width:100%;line-height: 30px;font-size: 13px;color: #007C00;
+}
+#playbox>.tip>i{
+    width:16px;height:16px;display: inline-block;background: url(../../img/ico.png) no-repeat scroll -40px -160px;
+}
+#playbox>.content{
+    width: 100%;min-height: 20px;font-weight:bold;font-size:14px;
+}
+#playbox>.content .tip{
+    width:100%;line-height: 30px;background:#EEE;text-align: center;margin:6px 0;
+}
+#playbox .disable{
+    color: #AAA;
+}
+
+
+#playbox>.content>.playplate{
+    width:100%;padding:10px 0;
+}
+#playbox>.content>.playplate>.title{
+    width:100%;background: #F2F2F2;line-height:28px;padding:3px 7px;
+}
+#playbox>.content>.playplate>.title>.mdisable{
+    color:#FF0000;
+}
+#playbox>.content>.playplate>.content>ul{
+    position:relative;
+}
+#playbox>.content>.playplate>.content>ul>li{
+    border-bottom:1px dotted #BFBFBF;line-height:28px;padding:6px 0;
+}
+#playbox>.content>.playplate>.content>ul>li>a{
+    color: #007C00;
+}
+
+#adpc3{
+    margin-left:-300px;width:300px;height:250px;position: relative;left:300px;float:left;
+}
+#adpc5{
+    margin-top:15px;
+}
+#bdrecpc{
+    /*margin-bottom:15px;*/
+}
+#admb3{
+    margin-top:15px;
+}
+#admb6{
+    margin:15px 0;
+}
+
+
